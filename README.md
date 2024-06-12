@@ -4,4 +4,3 @@ The LogisticsSolution project aims to demonstrate the concepts of Event Sourcing
 # Step Setup DataBase 
   open sqlServer and run the DatabaseSetup.sql file to create database and tables
 
-# Run ShipRocket solution
