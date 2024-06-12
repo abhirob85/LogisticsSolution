@@ -7,4 +7,4 @@ The LogisticsSolution project aims to demonstrate the concepts of Event Sourcing
 # Step Solution
   Change DB connection string in appsettings.Development.json
   Run the solution 
-# Reach Out me in LinkedIn for any query https://www.linkedin.com/in/abhishek-srivastava-0872b241/
+# Reach Out me on LinkedIn for any query https://www.linkedin.com/in/abhishek-srivastava-0872b241/
